@@ -16,9 +16,11 @@ bash git clone https://github.com/yourusername/covid19-tracker.git cd covid19-tr
 
 bash python -m venv venv
 
+----------------------------------------------------------------------------
 Windows:
 .\venv\Scripts\activate
 
+----------------------------------------------------------------------------
 macOS/Linux:
 source venv/bin/activate Install dependencies
 
@@ -40,4 +42,14 @@ Run the app
 
 bash streamlit run app.py This will open the application in your web browser.
 
-About The Data All datasets must be downloaded manually, as they are too large for GitHub. Download links are provided above. Place all files inside the Data/ directory as shown.                                            
+About The Data All datasets must be downloaded manually, as they are too large for GitHub. Download links are provided above. Place all files inside the Data/ directory as shown.    
+<img width="831" height="397" alt="image" src="https://github.com/user-attachments/assets/bdcc27e1-21b3-46c6-80f8-47c3d5f5bfc3" />
+
+Credits Built with Python, Streamlit, Plotly, Pandas
+
+Data sourced from Kaggle and other public Covid-19 datasets
+
+Contact For contributions, open issues or pull requests. Created with 💖 in India.
+
+
+
